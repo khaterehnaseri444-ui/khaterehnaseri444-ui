@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋🏻, I'm Arezo</h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Frontend+Developer;Computer+Engineering+Student;React+%7C+Next.js+Developer;TypeScript+%7C+JavaScript+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=650&lines=Frontend+Developer;Computer+Engineering+Student;React+%7C+Next.js+Developer;TypeScript+%7C+JavaScript+Developer" alt="Typing SVG" />
 </h3>
 
 ---
