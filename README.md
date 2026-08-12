@@ -14,13 +14,23 @@ Currently, I'm working as a **Frontend Developer Intern at benobe.ir**, where I'
 
 I have experience working with modern frontend technologies and I'm always interested in learning new tools, improving my skills, and writing clean and maintainable code.
 
-* 💼 Currently working as a **Frontend Developer Intern at benobe.ir**
-* 🎓 Studying **Computer Engineering**
-* ⚛️ Experienced with **React.js & Next.js**
-* 🟦 Working with **TypeScript & JavaScript**
-* 🎨 Building responsive UIs with **Tailwind CSS**
-* 🚀 Interested in modern frontend architecture and best practices
-* 📚 Always learning and improving my development skills
+- 💼 Currently working as a **Frontend Developer Intern at benobe.ir**
+- 🎓 Studying **Computer Engineering**
+- ⚛️ Experienced with **React.js & Next.js**
+- 🟦 Working with **TypeScript & JavaScript**
+- 🎨 Building responsive UIs with **Tailwind CSS**
+- 🚀 Interested in modern frontend architecture and best practices
+- 📚 Always learning and improving my development skills
+
+---
+
+## 🎓 Education
+
+**Bachelor's Degree in Computer Engineering**
+
+🏫 **Islamic Azad University**
+
+📚 Computer Engineering
 
 ---
 
@@ -28,42 +38,62 @@ I have experience working with modern frontend technologies and I'm always inter
 
 ### 💻 Languages
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
 </p>
 
+<p align="center">
+  <b>HTML5 &nbsp; • &nbsp; CSS3 &nbsp; • &nbsp; JavaScript &nbsp; • &nbsp; TypeScript</b>
+</p>
+
+---
+
 ### ⚛️ Frameworks & Libraries
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,redux" />
 </p>
 
-<p align="left">
+<p align="center">
+  <b>React.js &nbsp; • &nbsp; Next.js &nbsp; • &nbsp; Redux</b>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
 </p>
 
+---
+
 ### 🎨 Styling & UI
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=tailwind,bootstrap" />
 </p>
 
+<p align="center">
+  <b>Tailwind CSS &nbsp; • &nbsp; Bootstrap</b>
+</p>
+
+---
+
 ### 🔧 Tools
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=github,git,vscode" />
 </p>
+
+<p align="center">
+  <b>GitHub &nbsp; • &nbsp; Git &nbsp; • &nbsp; VS Code</b>
+</p>
+
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=khaterehnaseri444-ui&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=khaterehnaseri444-ui&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
-
 
 ---
 
@@ -87,13 +117,13 @@ I have experience working with modern frontend technologies and I'm always inter
 
 Currently, I'm working on several frontend projects while improving my skills in:
 
-* ⚛️ React & Next.js
-* 🟦 TypeScript
-* 🧩 Component-based architecture
-* 🎨 Modern UI/UX
-* 📱 Responsive Web Design
-* ⚡ Performance Optimization
-* 🏗️ Clean & Scalable Frontend Architecture
+- ⚛️ React & Next.js
+- 🟦 TypeScript
+- 🧩 Component-based architecture
+- 🎨 Modern UI/UX
+- 📱 Responsive Web Design
+- ⚡ Performance Optimization
+- 🏗️ Clean & Scalable Frontend Architecture
 
 ---
 
@@ -107,6 +137,23 @@ Currently, I'm working on several frontend projects while improving my skills in
   <a href="https://www.linkedin.com/in/arezo-naseri-759149344">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+
+  <a href="https://t.me/khatereh20_05">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+  <a href="mailto:arezonaseridev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+
+---
+
+## 🔎Explore My Projects
+
+<p align="center">
+   💻Check out my projects, explore my code, and drop a ⭐ if you like them!
 </p>
 
 ---
