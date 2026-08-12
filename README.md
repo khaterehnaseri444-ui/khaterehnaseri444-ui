@@ -86,7 +86,44 @@ I have experience working with modern frontend technologies and I'm always inter
   <b>GitHub &nbsp; • &nbsp; Git &nbsp; • &nbsp; VS Code</b>
 </p>
 
+---
 
+## 📦 Packages & Libraries
+
+### 🌐 HTTP & Data Fetching
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" />
+</p>
+
+### 🖼️ UI & Components
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Swiper-6332F6?style=for-the-badge&logo=swiper&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Compare_Slider-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
+</p>
+
+### 📝 Forms & Validation
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Formik-2563EB?style=for-the-badge&logo=formik&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Yup-FF4154?style=for-the-badge&logo=yup&logoColor=white" />
+  <img src="https://img.shields.io/badge/Zod-3068B7?style=for-the-badge&logo=zod&logoColor=white" />
+</p>
+
+### 🗺️ Maps
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Leaflet-199900?style=for-the-badge&logo=leaflet&logoColor=white" />
+</p>
+
+### 📊 Charts & Data Visualization
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" />
+</p>
 ---
 
 ## 📊 GitHub Stats
@@ -146,7 +183,6 @@ Currently, I'm working on several frontend projects while improving my skills in
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
 
 ---
 
